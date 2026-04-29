@@ -1,2 +1,2 @@
-# DB-PAID
+# Scubapaid
 New mod menu paiddddd!!!!!!
